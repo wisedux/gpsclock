@@ -153,7 +153,7 @@ wanted to display Pacific Daylight Time (UTC-7) you would turn on switches
 ```
 12345678 <-- Switch number
 ±S8421½? <-- Switch meaning (Sign, 16h, 8h, 4h, 2h, 1h, 30m, NC?)
-10011100 <-- Turn on these switches (minus sign, 2 + 4 + 1)
+10011100 <-- Turn on these switches (minus sign, 4 + 2 + 1)
 ```
 
 ### Under the cover!
